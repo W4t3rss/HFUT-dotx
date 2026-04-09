@@ -1,0 +1,17 @@
+
+
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.db
+.env
+.venv/
+venv/
+**/logs/
+.idea/
+.vscode/
+.mypy_cache/
+.pytest_cache/
+alembic/__pycache__/
+migrations/__pycache__/
+migrations/versions/__pycache__/
