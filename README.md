@@ -1,4 +1,4 @@
-# HFUT-dox
+# HFUT-dotx
 
 ![school](https://img.shields.io/badge/school-HFUT-005BAC?logo=bookstack&logoColor=white) ![platform](https://img.shields.io/badge/platform-Word-2B579A?logo=microsoftword&logoColor=white) ![format](https://img.shields.io/badge/format-.dotx-0EA5E9?logo=microsoft&logoColor=white)
 
