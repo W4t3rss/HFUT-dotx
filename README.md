@@ -25,3 +25,5 @@ HFUT-dotx
 [Latex模板1](https://github.com/netcan/HFUT_Thesis)
 [Latex模板2](https://github.com/shinyypig/HFUT-Thesis)
 
+若需要直接文件可联系我
+QQ:2240653104
