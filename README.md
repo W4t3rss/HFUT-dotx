@@ -11,7 +11,7 @@
 HFUT-dotx
 ├─ GB-T-7714—2015（顺序编码，双语，姓名不大写，无URL、DOI）.csl
 ├─ HFUT-dotx 说明.pdf
-├─ HFUT.dotx
+├─ HFUT-data.dotx
 ├─ README.md
 ├─ 原始官网模板_合肥工业大学毕业论文模板.docx
 └─ 合肥工业大学博士论文参考文献引用样式.csl
@@ -19,6 +19,7 @@ HFUT-dotx
 
 #### 使用方法
 见项目中的 `HFUT-dotx说明.pdf`
+务必选择最新版的HFUT-data.dotx
 
 #### 其他
 若需要 Latex 模板可查看
